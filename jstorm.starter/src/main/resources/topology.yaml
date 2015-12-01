@@ -1,0 +1,12 @@
+#storm.cluster.mode: "local"
+storm.cluster.mode: "distributed"
+
+topology.name: "jstorm-starter"
+topology.spout.parallel: 1
+topology.bolt.parallel: 1
+topology.message.timeout.secs: 300
+topology.workers: 2
+topology.acker.executors: 0
+
+storm.client.logger: "client_log4j.xml"
+#storm.client.logger: "client_logback.xml"

@@ -1,0 +1,4 @@
+language = java
+build.system = maven
+build.command = mvn clean package -DskipTests -U
+build.output = target/jstorm-starter.jar
