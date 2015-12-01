@@ -18,4 +18,4 @@ storm应用的几个示例,参考alibaba
 练习用的jstorm程序,参考alibaba,只有在ali内网可以编译.
 
 # log.myql
-日志系统的一个模块,解析日志,写入到mysql中.(涉密,无法公开)
+日志系统的一个模块,解析日志,写入到mysql中.(涉密,无法公开)(放入BitBucket/log.mysql/)
