@@ -1,0 +1,5 @@
+spout.parallel=1
+bolt.parallel=1
+acker.parallel=1
+msg.pending=1000
+worker.num=6
