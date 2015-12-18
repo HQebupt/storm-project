@@ -44,7 +44,7 @@
             <artifactId>ojdbc6</artifactId>
             <version>11.2.0.1.0</version>
             <scope>system</scope>
-            <systemPath>/Users/huangqiang/Downloads/OracleJDBC/lib/ojdbc14_g.jar</systemPath>
+            <systemPath>/Users/huangqiang/.m2/library/ojdbc6.jar</systemPath>
         </dependency>
 
     </dependencies>
